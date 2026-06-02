@@ -91,7 +91,7 @@ The full PBLI output file,
 PBLI_montecarlo_results.mat
 ```
 
-is not stored in GitHub because of its size. It is archived separately in Zenodo.
+is not stored in GitHub because of its size. It is archived separately in Zenodo at [doi.org/10.5281/zenodo.20493995](https://doi.org/10.5281/zenodo.20493995).
 
 That file contains the complete PBLI outputs for all Monte Carlo realizations, including MAP estimates, credible intervals, posterior samples, and trajectory envelopes.
 
