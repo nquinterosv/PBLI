@@ -22,7 +22,7 @@ The code is intentionally simple. It is not meant to be a full MATLAB toolbox, b
   PBLI_montecarlo_results.mat
   ```
 
-  This output file is very large, approximately 12 GB, because it stores the PBLI results for every Monte Carlo realization, noise level, and likelihood configuration. For this reason, it is not included in this GitHub repository. It is archived separately in Zenodo at [https://doi.org/10.5281/zenodo.20493995](doi.org/10.5281/zenodo.20493995)
+  This output file is very large, approximately 12 GB, because it stores the PBLI results for every Monte Carlo realization, noise level, and likelihood configuration. For this reason, it is not included in this GitHub repository. It is archived separately in Zenodo at [doi.org/10.5281/zenodo.20493995](https://doi.org/10.5281/zenodo.20493995)
 
 ## How to run
 
