@@ -98,3 +98,10 @@ That file contains the complete PBLI outputs for all Monte Carlo realizations, i
 ## Note
 
 The simulations are synthetic twin experiments: the data are generated from the same SimpleDIVA model used for inference. This was done intentionally to study parameter recovery and identifiability in a controlled setting before moving to empirical-noise or experimental-data extensions.
+
+## Citation
+
+If you use this code or data in your research, please cite the associated paper:
+
+Nicolás F. Quinteros, Jesús A. Parra, Luis A. Severino, Juan P. Cortés, Gabriel A. Alzamendi, Frank H. Guenther, Matías Zañartu; Quantifying parameter uncertainty in a three-parameter model of speech and voice adaptation using early- and late-window pitch-shift responses. J. Acoust. Soc. Am. 1 October 2026; 160 (4): 2769–2781. [https://doi.org/10.1121/10.0046803](https://doi.org/10.1121/10.0046803)
+
